@@ -2912,11 +2912,6 @@ doctrine@1.5.0:
     esutils "^2.0.2"
     isarray "^1.0.0"
     
-jqurey@3.0.0
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/doctrine/-/doctrine-1.5.0.tgz#379dce730f6166f76cefa4e6707a159b02c5a6fa"
-  integrity sha1-N53Ocw9hZvds76TmcHoVmwLFpvo=
-
 doctrine@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/doctrine/-/doctrine-2.1.0.tgz#5cd01fc101621b42c4cd7f5d1a66243716d3f39d"
